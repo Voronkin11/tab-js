@@ -1,0 +1,27 @@
+.list {
+	display: flex;
+	justify-content: space-around;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	background-color: #262836;
+}
+
+.list__item {
+		box-sizing: border-box;
+	display: flex;
+	color: #b7bacd;
+}
+
+.list__item--on {
+	border-bottom: 2px solid #ffffff;
+	color: #ffffff;
+}
+
+.list__text {
+
+}
+
+.list__text--on {
+	
+}
